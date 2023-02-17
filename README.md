@@ -36,3 +36,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+//////////
+
+Created a Nexjs project using MaterialUI and ReactQuery
+
+-- type npm run dev to start application.
+--type localhost/3000 in browser.
+--Home page is popular movies used theMoviesdb Api for data.
+-- added card form mui , in per card title of movie and realeased date is showing.
+--added infite scroll on the results , perpage is showing 20 results on clicking load more button at the end of page next 20 results are loaded.
+
+--type localhost/3000/search to get search functionality
+--type searchid of movie and movie details are loaded in a card.
+
+///////
